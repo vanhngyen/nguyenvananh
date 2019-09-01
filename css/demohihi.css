@@ -1,0 +1,89 @@
+header,section,footer{
+    width:100%;
+    float: left;
+}
+#noidung1{
+    text-align: left;
+    margin-left: auto;
+    width: 100%;
+}
+#noidung2{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+header{
+    background-image: linear-gradient(to right,#7570fe,#88edff);
+    height:600px;
+}
+section{
+    background-image: linear-gradient(to right,#87ecfe,#ffffff);
+    height: 300px;
+}
+#bentrai1{
+    width:25%;
+    margin-left: 50px;
+    float: left;
+    margin-top: 30px;
+}
+#benphai{
+    width:60%;
+    margin-left: auto;
+    float: right;
+}
+#bentrai2{
+    width:20%;
+    float: left;
+}
+#chinhgiua{
+    width:60%;
+    height: 500px;
+    float:left;
+    border: solid 1px #000000;
+    margin-top: -400px;
+    background-image: linear-gradient(to right,#7c97ff,#a1cdd5);
+    border-radius: 10px;
+    box-shadow: 0px 0px 100px #e9d415;
+}
+li{
+    float: left;
+    width: 16.66%;
+    text-align: left;
+    list-style: none;
+    margin-top: 30px;
+}
+span{
+    margin-top: 30px;
+    text-align: 15px;
+    font-size: 22px;
+}
+img{
+    margin-top:20px;
+    width:70%;
+    height:100%;
+    margin-left: 30px;
+}
+p{
+    margin-right: 30px;
+    margin-top:30px;
+    font-size: 20px;
+
+}
+#trai1{
+    float: left;
+    width:50%;
+    height:85%;
+    margin-top:20px;
+    margin-left: 20px;
+}
+#phai1{
+    float: right;
+    width:50%;
+    height:15%;
+    margin-top:20px;
+    margin-left: 20px;
+}
+h3{
+    font-size:24px;
+    font-family: "Times New Roman";
+}

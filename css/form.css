@@ -1,0 +1,33 @@
+#form-data{
+    width: 300px;
+    margin: 50px auto; /*top right botter left*/
+    padding: 20px;
+}
+.form-control{
+    width: 100%;
+    float: left;
+    margin: 10px 0;
+    border: 1px solid #333333;
+    font-size: 15px;
+    line-height: 1.67;
+    padding: 5px 0;
+    text-indent: 10px;
+}
+.btn{
+    font-size: 15px;
+    color: #FFFFFF;
+    background: #c40000;
+    line-height: 25px;
+    padding: 5px 15px;
+    border-radius: 5px;
+}
+.radio{
+    float: left;
+    width: 100%;
+    margin: 15px 0;
+}
+.checkbox{
+    float: left;
+    width: 100%;
+    margin: 15px 0;
+}

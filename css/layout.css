@@ -1,0 +1,35 @@
+header,section,footer {
+    width: 100%;
+    float: left;
+
+}
+#noidung1 {
+    width: 700px;
+    margin-right: auto;
+    margin-left: auto;
+    background : cyan;
+}
+#noidung2{
+    width: 700px;
+    margin-right: auto;
+    margin-left: auto;
+    background: red;
+}
+#noidung3{
+    width: 700px;
+    margin-right: auto;
+    margin-left: auto;
+    background: chartreuse;
+}
+#bentrai{
+    float: left;
+    width: 25%;
+}
+#phanchinh{
+    float: left;
+    width: 50%;
+}
+#benphai{
+    float: right;
+    width: 25%;
+}

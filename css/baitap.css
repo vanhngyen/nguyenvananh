@@ -1,0 +1,15 @@
+#content {
+    width: 900px;
+    padding: 100px;
+    border: 1px solid red;
+}
+#content:hover{
+    color: red;
+}
+#note{
+    margin-left: 300px;
+}
+#img{
+    background: antiquewhite;
+}
+

@@ -1,0 +1,118 @@
+.content h1 {
+    color: #f9f5f5;
+    font-family: arial;
+    font-style: normal;
+    font-weight: 400;
+    font-stretch: normal;
+    font-size: 28px;
+    line-height: 32px;
+    background: red;
+}
+#header{
+    margin: 30px auto;
+    padding: 50px;
+}
+#name{
+    color: black;
+    width:100%;
+    float: left;
+    margin: 15px 0;
+    font-size: 15px;
+    line-height: 20px;
+    padding: 10px 0px;
+    text-indent: 10px;
+    border-style: inset;
+}
+#address{
+    color: black;
+    width:100%;
+    float: left;
+    margin: 15px 0;
+    font-size: 15px;
+    line-height: 20px;
+    padding: 10px 0px;
+    text-indent: 10px;
+    border-style: inset;
+}
+#email{
+    color: black;
+    width:100%;
+    float: left;
+    margin: 15px 0;
+    font-size: 15px;
+    line-height: 20px;
+    padding: 10px 0px;
+    text-indent: 10px;
+    border-style: inset;
+}
+.btn {
+    font-size: 15px;
+    color: #FFFFFF;
+    background: #c40000;
+    line-height: 25px;
+    padding: 5px 15px;
+    border-radius: 5px;
+}
+#tittle{
+    width: 30px;
+}
+#first{
+    width: 60px;
+}
+#last{
+    width: 80px;
+}
+#suffix{
+    width: 50px;
+}
+.container {
+    overflow: hidden;
+}
+#footer{
+    width: 1000px;
+    height: 280px;
+    margin-top: -50px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#footer .in4{
+    width: 30%;
+    height: auto;
+    text-align: left;
+    color: #FFFFFF;
+    float: left;
+}
+#footer .in4 h2{
+    font: bold 18px/26px 'M PLUS Rounded 1c', sans-serif;
+}
+#footer .in4 hr{
+    margin-top: -10px;
+    margin-left: -5px;
+    width: 250px;
+}
+#footer .in4 table{
+    font: normal 14px/22px 'M PLUS Rounded 1c', sans-serif;
+    height: 20px;
+    margin: 10px 0px 10px 0px;
+}
+#footer .chao{
+    width: 70%;
+    height: auto;
+    text-align: center;
+    color: #FFFFFF;
+    float: right;
+}
+#footer .chao h1{
+    color: #FFFFFF;
+    text-transform: uppercase;
+    font-family: 'Amatic SC', cursive;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 1.8;
+    margin-top: 0px;
+}
+#footer .chao img{
+    max-width: 85%;
+    height: auto;
+}

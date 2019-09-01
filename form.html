@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>from data</title>
+    <link rel="stylesheet" type="text/css" href="css/form.css" />
+</head>
+<body>
+    <form method="post" action="#" id="form-data">
+        <input type="text" class="form-control" name="full_name" placeholder="full name"/>
+        <br>
+        <input type="email" class="form-control" name="my_email" placeholder="email"/>
+        <br>
+        <input type="number" class="form-control" name="cartId" placeholder="Cart ID"/>
+        <br>
+        <input type="file" class="form-control" name="my_avatar" placeholder="avatar"/>
+        <br>
+        <input type="date" class="form-control" name="birtday" placeholder="date of birtday"/>
+        <div class="radio">
+        <label>
+        <input type="radio" name="gerder" value="nam"/>nam
+        <input type="radio" name="gerder" value="nữ"/>nữ
+        </label>
+        </div>
+        <div class="checkbox">
+        <label>
+        <input type="checkbox" name="dieu_kien" value="yes"/> tôi đồng ý các điều kiện của bạn.
+        </label>
+        </div>
+        <select name="city" class="form-control">
+            <option value="Hanoi" >hanoi</option>
+            <option value="sg" >sài gòn</option>
+            <option value="bacninh" >bắc ninh</option>
+        </select>
+        <br>
+        <textarea name="gioi thieu" placeholder="gioi thieu ban than"></textarea>
+        <br/>
+        <button type="button" class="btn">button</button>
+        <button type="submit" class="btn">submit</button>
+        <button type="reset" class="btn">reset</button>
+    </form>
+</body>
+</html>

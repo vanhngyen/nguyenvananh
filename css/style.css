@@ -1,0 +1,203 @@
+.header{
+    color: blueviolet;
+    text-align: center;
+    background-color: white;
+    font-size: 20px;
+    background-image: url(https://media.ex-cdn.com/EXP/media.giadinhvietnam.com/files/content/2019/05/28/ba-tan-vlog-la-ai-giadinhvietnam-4-1503.jpg);
+    background-repeat: no-repeat;
+    background-position-y: 112px;
+    background-position-x: center;
+}
+.header h1{
+    margin-top: 500px;
+}
+#time{
+    color: darkgrey;
+}
+p{
+    text-align: center;
+    font-size: 30px;
+    margin: auto;
+    background-color: white;
+}
+#slide-bar{
+    text-align: left;
+    font-size: 50px;
+    margin: auto;
+    background-color: #FFFFFF;
+
+}
+body{
+    background-color: lavenderblush;
+    background-image: url("https://tailieufree.net/wp-content/uploads/2019/01/hinh-nen-chu-lon-ngo-nghinh-cho-iphone.jpg");
+}
+.header{
+    width: 70%;
+    height: 600px;
+    border: solid 1px #2196F3;
+    margin-left: 15%;
+}
+.navigation{
+    width: 70%;
+    height: 45px;
+    border: solid 1px #2196F3;
+    margin-top: 5px;
+    margin-left: 15%;
+}
+.slide-bar{
+    width: 25%;
+    height: auto;
+    border: solid 1px #2196F3;
+    margin-top: 5px;
+    float: left;
+    margin-left: 15%;
+}
+#content{
+    text-align: right;
+}
+.content{
+    width: 43%;
+    height: auto;
+    border: solid 1px #2196F3;
+    margin-top: 5px;
+    margin-right: 15%;
+    float: right;
+    background-color: #FFFFFF;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.content img{
+    max-width: 100%;
+    height: auto;
+}
+.content h1 {
+    color: #f9f5f5;
+    font-family: arial;
+    font-style: normal;
+    font-weight: 400;
+    font-stretch: normal;
+    font-size: 28px;
+    line-height: 32px;
+    background: red;
+}
+.content h2{
+    color: #000000;
+    font-family: arial;
+    font-style: normal;
+    font-weight: 700;
+    font-stretch: normal;
+    font-size: 14px;
+    line-height: 18px;
+    margin-top: 5px;
+    margin-bottom: 25px;
+}
+.content p{
+    color: #333333;
+    font-family: Arial;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: left;
+    margin-top: 10px;
+}
+#chinhgiua{
+    width:100%;
+    height: 600px;
+    float:left;
+    border: solid 1px #000000;
+    margin-top: 10px;
+    background-image: linear-gradient(to right,#7c97ff,#a1cdd5);
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px #e9d415;
+}
+#noidung2{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#menu {
+    background: #dce4dc;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    font-family: 'Amatic SC', cursive;
+}
+
+#menu p {
+    color: #FFFFFF;
+    display: block;
+    font-family:'FontAwesome';
+    text-align:left;
+}
+#trai1 {
+    float: left;
+    width: 50%;
+    height: 85%;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.icon{
+    color: #FF0000;
+}
+.content p:hover{
+    background-color: pink;
+}
+
+footer{
+    margin-top: 700px;
+    width:100%;
+    background-color: #c36464;
+    padding: 100px;
+}
+#footer{
+    width: 1000px;
+    height: 280px;
+    margin-top: -50px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#footer .in4{
+    width: 30%;
+    height: auto;
+    text-align: left;
+    color: #FFFFFF;
+    float: left;
+}
+#footer .in4 h2{
+    font: bold 18px/26px 'M PLUS Rounded 1c', sans-serif;
+}
+#footer .in4 hr{
+    margin-top: -10px;
+    margin-left: -5px;
+    width: 250px;
+}
+#footer .in4 table{
+    font: normal 14px/22px 'M PLUS Rounded 1c', sans-serif;
+    height: 20px;
+    margin: 10px 0px 10px 0px;
+}
+#footer .chao{
+    width: 70%;
+    height: auto;
+    text-align: center;
+    color: #FFFFFF;
+    float: right;
+}
+#footer .chao h1{
+    color: #FFFFFF;
+    text-transform: uppercase;
+    font-family: 'Amatic SC', cursive;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 1.8;
+    margin-top: 0px;
+}
+#footer .chao img{
+    max-width: 85%;
+    height: auto;
+}
+
+.container {
+    overflow: hidden;
+}

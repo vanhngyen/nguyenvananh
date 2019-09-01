@@ -1,0 +1,114 @@
+.header{
+    color: blueviolet;
+    text-align: center;
+    background-color: white;
+    font-size: 20px;
+    background-image: url(https://media.ex-cdn.com/EXP/media.giadinhvietnam.com/files/content/2019/05/28/ba-tan-vlog-la-ai-giadinhvietnam-4-1503.jpg);
+    background-repeat: no-repeat;
+    background-position-y: 50px;
+    background-position-x: center;
+}
+.header h1{
+    margin-top: 500px;
+}
+p{
+    text-align: center;
+    font-size: 30px;
+    margin: auto;
+    background-color: white;
+}
+#slide-bar{
+    text-align: left;
+    font-size: 50px;
+    margin: auto;
+    background-color: #FFFFFF;
+
+}
+body{
+    background-color: lavenderblush;
+    background-image: url("https://tailieufree.net/wp-content/uploads/2019/01/hinh-nen-chu-lon-ngo-nghinh-cho-iphone.jpg");
+}
+.header{
+    width: 70%;
+    height: 600px;
+    border: solid 1px #2196F3;
+    margin-left: 15%;
+}
+.navigation{
+    width: 70%;
+    height: 30px;
+    border: solid 1px #2196F3;
+    margin-top: 5px;
+    margin-left: 15%;
+}
+.slide-bar{
+    width: 23%;
+    height: auto;
+    border: solid 1px #2196F3;
+    margin-top: 5px;
+    float: left;
+    margin-left: 15%;
+}
+#content{
+    text-align: right;
+}
+.content{
+    width: 42%;
+    height: auto;
+    border: solid 1px #2196F3;
+    margin-top: 5px;
+    margin-right: 15%;
+    float: right;
+    background-color: #FFFFFF;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.content img{
+    max-width: 100%;
+    height: auto;
+}
+.content h1{
+    color: #FF0000;
+    font-family: arial;
+    font-style: normal;
+    font-weight: 400;
+    font-stretch: normal;
+    font-size: 28px;
+    line-height: 32px;
+}
+.content h2{
+    color: #000000;
+    font-family: arial;
+    font-style: normal;
+    font-weight: 700;
+    font-stretch: normal;
+    font-size: 14px;
+    line-height: 18px;
+    margin-top: 5px;
+    margin-bottom: 25px;
+}
+.content p{
+    color: #333333;
+    font-family: Arial;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: left;
+}
+.content p:hover{
+    background-color: pink;
+}
+.footer{
+    width: 70%;
+    height: 300px;
+    border: solid 1px #2196F3;
+    margin-top: 5px;
+    margin-left: 15%;
+    float: left;
+}
+.footer{
+    text-align: center;
+    font-size: 50px;
+    margin: fill;
+    background-color: white;
+}
